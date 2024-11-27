@@ -1,5 +1,5 @@
-<deatils>
-<!--English Version-->
+<details>
+<!-- English Version -->
 <summary>ENGLISH VERSION [<>]</summary>
 
 ### Table of Contents
@@ -13,11 +13,11 @@
 ### Origin and References [EN]
 This repository is based on the [Linux Guide](https://github.com/Theritex/LinuxGuide) repository, created and developed by [Nisamov](https://github.com/Nisamov).
 
-<!--End English version-->
+<!-- End English version -->
 </details>
 
-<deatils>
-<!--Spanish Version-->
+<details>
+<!-- Spanish Version -->
 <summary>SPANISH VERSION [<>]</summary>
 
 ### Lista de Contenido
@@ -26,10 +26,10 @@ This repository is based on the [Linux Guide](https://github.com/Theritex/LinuxG
     - [Licencia](/LICENSE)
 
 > [!IMPORTANT]
-> El obejtivo de este proyecto es promover y facilitar las guias y documentación a todo aquel que la requiera.
+> El objetivo de este proyecto es promover y facilitar las guías y documentación a todo aquel que la requiera.
 
 ### Origen y referencias [ES]
-Este repositorio está basado en el repositorio [Linux Guide](https://github.com/Theritex/LinuxGuide), todo esto creado y desarrollado por [Nisamov](https://github.com/Nisamov).
+Este repositorio está basado en el repositorio [Linux Guide](https://github.com/Theritex/LinuxGuide), creado y desarrollado por [Nisamov](https://github.com/Nisamov).
 
-<!--End Spanish version-->
+<!-- End Spanish version -->
 </details>
